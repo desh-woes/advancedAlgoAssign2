@@ -89,4 +89,5 @@ def get_weight_of_minimum_spanning_tree(node_dict):
     return accumulator
 
 
+# Test algorithm implementation on the assignment graph provided.
 print(prims_algorithm(assignment_graph))
